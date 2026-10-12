@@ -3,6 +3,6 @@
   "minecraft": "1.21.11",
   "fabricLoader": "latest",
   "java": 21,
-  "mods": [ { "slug": "fabric-api" }, { "slug": "simple-voice-chat" }, { "slug": "sodium" } ],
+  "mods": [ { "slug": "fabric-api" }, { "slug": "plasmo-voice" }, { "slug": "sodium" } ],
   "news": [ { "title": "Launcher hazır", "date": "2026-10-12", "text": "Oyna'ya bas, modlar otomatik indirilir ve sunucuya bağlanırsın." } ]
 }
