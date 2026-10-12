@@ -4,5 +4,8 @@
   "fabricLoader": "latest",
   "java": 21,
   "mods": [ { "slug": "fabric-api" }, { "slug": "plasmo-voice" }, { "slug": "sodium" } ],
-  "news": [ { "title": "Launcher hazır", "date": "2026-10-12", "text": "Oyna'ya bas, modlar otomatik indirilir ve sunucuya bağlanırsın." } ]
+  "maintenance": { "active": false, "text": "" },
+  "announcements": [ { "title": "Launcher hazır", "date": "2026-10-12", "text": "Oyna'ya bas, modlar otomatik indirilir ve sunucuya bağlanırsın.", "type": "duyuru" } ],
+  "events": [ { "title": "Örnek etkinlik", "date": "2026-10-20", "text": "Etkinlikleri events alanına yazabilirsin." } ],
+  "updates": [ { "version": "1.1.0", "date": "2026-10-12", "notes": ["Akıllı güncelleme", "Sorun giderme araçları", "Canlı panel"] } ]
 }
