@@ -6,12 +6,74 @@
   "mods": [
     { "slug": "fabric-api" },
     { "slug": "plasmo-voice" },
-    { "slug": "sodium" }
+    { "slug": "sodium" },
+    { "slug": "fancymenu", "optional": true },
+    { "slug": "drippy-loading-screen", "optional": true }
   ],
   "maintenance": { "active": false, "text": "" },
   "announcements": [],
   "events": [],
   "updates": [
+    {
+      "version": "1.8.0",
+      "date": "2026-10-13",
+      "notes": [
+        "Özel menü ve yükleme ekranı için FancyMenu ve Drippy Loading Screen eklendi (yalnız oyuncu tarafı, sunucuyu etkilemez)"
+      ]
+    },
+    {
+      "version": "1.7.1",
+      "date": "2026-10-13",
+      "notes": [
+        "Launcher açıkken yeni sürüm artık otomatik fark edilir (10 dakikada bir ve pencereye dönünce)"
+      ]
+    },
+    {
+      "version": "1.7.0",
+      "date": "2026-10-13",
+      "notes": [
+        "Hayes oyun arayüzü: yükleme logosu, menü ve buton görselleri (Ayarlar'dan kapatılabilir)"
+      ]
+    },
+    {
+      "version": "1.6.1",
+      "date": "2026-10-13",
+      "notes": [
+        "Launcher güncellemesinde 'EPERM' hatası düzeltildi"
+      ]
+    },
+    {
+      "version": "1.6.0",
+      "date": "2026-10-13",
+      "notes": [
+        "Yeni kurulum ekranı ve doğru uygulama simgesi",
+        "Hafif sisli arka plan ve fare ışığı",
+        "Günün saatine göre karşılama, sağ altta ayarlar çarkı",
+        "Oyuncu girip çıkınca sağ altta küçük bildirim"
+      ]
+    },
+    {
+      "version": "1.5.1",
+      "date": "2026-10-13",
+      "notes": [
+        "Wiki kapatılınca boş menünün açılması düzeltildi"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "date": "2026-10-13",
+      "notes": [
+        "Launcher güncellemesi: yeni sürüm varsa ana ekranda tek tıkla güncelle"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-10-13",
+      "notes": [
+        "Hayes Wiki: oyunu öğreten rehber artık launcher içinde",
+        "Web sitesi bağlantısı eklendi"
+      ]
+    },
     {
       "version": "1.3.0",
       "date": "2026-10-12",
