@@ -1,0 +1,105 @@
+{
+  "topics": [
+    {
+      "id": "baslangic",
+      "title": "Başlangıç",
+      "items": [
+        "Önce Kimlik Memuru'ndan kimliğini oluştur.",
+        "Sonra Kamu Memuru'ndan bir meslek seç; mesleğin aleti sana verilir.",
+        "Kaynak toplayıp Pazar Tüccarı'na satarak para kazan. /kit ile başlangıç kitini al.",
+        "Kaybolursan /rehber ile pusulanı istediğin memura çevir."
+      ]
+    },
+    {
+      "id": "meslek",
+      "title": "Meslek",
+      "items": [
+        "4 meslek var: Oduncu, Madenci, Çiftçi, Balıkçı. Biri ana mesleğin, diğerleri yan meslek.",
+        "Yalnız ana meslekte yetenekler çalışır; yan meslekte seviye ilerler ama bonus yoktur.",
+        "Kaynak toplama alanları belirli bölgelerdedir. Aletini Demirci'de tamir edip yükseltirsin.",
+        "Detay için /kariyer ve /profil > Meslek."
+      ]
+    },
+    {
+      "id": "ekonomi",
+      "title": "Ekonomi",
+      "items": [
+        "Cüzdanın üzerinde taşıdığın paradır; Banka Personeli'nde bankaya yatırabilirsin.",
+        "Banka bakiyesine haftalık küçük faiz işler (şehir kasası yeterliyse). Her işlemin /makbuz kaydı tutulur.",
+        "Başkasına /ode ya da /profil > Para Gönder ile para yollarsın.",
+        "Ürünlerini Tüccar'a hemen, Pazar'da kendi tezgahında istediğin fiyata satarsın."
+      ]
+    },
+    {
+      "id": "ev",
+      "title": "Ev ve Mülk",
+      "items": [
+        "Tapu Memuru'ndan ev alır ya da kiralarsın; [EMLAK] ve [KIRALIK] tabelalarına sağ tıklayarak da olur.",
+        "Anahtarın olan kapıyı açarsın; kopya anahtar ve kilit değiştirme Tapu Memuru'ndadır.",
+        "Evlerde depo, fırın ve yatak /esyalarim ile kurulur. Kira haftalık, vergi otomatik tahsil edilir."
+      ]
+    },
+    {
+      "id": "pazar",
+      "title": "Pazar",
+      "items": [
+        "Pazar alanında ruhsatla tezgah açarsın; ürünü sandığa koyup fiyat belirlersin.",
+        "Satın almak için tezgaha sağ tıkla. Açık tezgahları /profil > Ekonomi > Pazar Rehberi'nde görürsün.",
+        "Alınmayan teslimatlar Postacı'da bekler, süre dolarsa kaybolur."
+      ]
+    },
+    {
+      "id": "savas",
+      "title": "Savaş",
+      "items": [
+        "Silahtar'dan sınıf seçip ekipman alırsın (Royal Guard, Paladin, Marksman, Assassin, Peltast, Support).",
+        "Şehir dışındaki vahşi mobları öldürerek savaş seviyesi kazanırsın.",
+        "Silah ve zırhına /pasif ile 3'er pasif mühür seçersin; seviyen arttıkça yetenek ağacından puan harcarsın."
+      ]
+    },
+    {
+      "id": "klan",
+      "title": "Klan",
+      "items": [
+        "Klan evi admin tabelasıyla kurulur; Lider üye ekler. Klan sohbeti için /ks <mesaj>.",
+        "Ortak depo, klan görevleri, avlar ve haftalık kupa /klan ekranındadır.",
+        "Klan seviyesi arttıkça küçük avantajlar açılır; bakım ücreti ödenmezse avantajlar donar."
+      ]
+    },
+    {
+      "id": "sozlesme",
+      "title": "Sözleşme ve Takas",
+      "items": [
+        "/sozlesmelerim ile yakındaki biriyle para ya da eşya karşılığı sözleşme yaparsın; süre dolarsa ihlal sayılır.",
+        "/takas <oyuncu> ile yakındaki biriyle güvenli takas yaparsın: iki taraf da kilitleyip onaylayınca gerçekleşir."
+      ]
+    },
+    {
+      "id": "gorev",
+      "title": "Görevler",
+      "items": [
+        "Görevli NPC'lerle konuşarak görev alırsın. /gorevlerim ile takip eder, izlediğin görevi pusulada görürsün.",
+        "Başkan Yardımcısı'ndan her gün 3 kişisel iş alırsın (/isler)."
+      ]
+    },
+    {
+      "id": "evcil",
+      "title": "Evcil Hayvan",
+      "items": [
+        "Hayvan Bakıcısı'ndan kedi, köpek ya da papağan sahiplenirsin; /evcil ile çağırır, ona isim verirsin.",
+        "Boş elle sağ tık: otur/kalk. Shift+sağ tık: evcil menüsü. Sevdiği yiyecekle (köpek et, kedi balık, papağan tohum) besleyince bağınız güçlenir.",
+        "Bağ arttıkça küçük bonuslar açılır: köpek hız, kedi şans, papağan düşme hasarını azaltır.",
+        "Evcilin ölmez ama yaralanabilir; tedavisi Hayvan Bakıcısı'ndadır. Uzun süre ilgilenmezsen seni özler, bağ azalır."
+      ]
+    },
+    {
+      "id": "sosyal",
+      "title": "Sosyal",
+      "items": [
+        "Bir oyuncuya boş elle sağ tıkla: herkese açık bilgi kartını görürsün, oradan arkadaş ekleyebilirsin.",
+        "Hotbar'daki 8. slot Sosyal çanı (ya da /sosyal): arkadaşların, yakındakiler, parti ve arkadaşlık isteği tek ekranda.",
+        "/ks <mesaj> (klan sohbeti), /mesajyolla (posta)."
+      ]
+    }
+  ]
+}
